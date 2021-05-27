@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Data Citation Community of Practice
+title: Information
 permalink: /information/
 tags: information
 ---
