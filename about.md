@@ -17,7 +17,7 @@ You are invited to participate in a newly formed Community of Practice for Data 
 * Shelley Stall - AGU Sr. Director for Data Leadership helping to organize and support the effort.
 * Chris Erdmann – AGU Assistant Director for Data Stewardship helping to organize and support the effort. 
 
-[Contact the co-organizers](mailto:sstall@agu.org, cerdmann@agu.org, caroline.m.coward@jpl.nasa.gov, daagarwal@lbl.gov).
+<a href="mailto:sstall@agu.org, cerdmann@agu.org, caroline.m.coward@jpl.nasa.gov, daagarwal@lbl.gov">Contact the co-organizers</a>.
 
 ### Code of Conduct
 
