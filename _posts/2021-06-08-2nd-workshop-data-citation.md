@@ -2,7 +2,7 @@
 layout:     post
 title:      2nd Workshop of the Data Citation Community of Practice
 date:       2021-06-08
-summary:    Use cases presented identified in the first workshop followed by community discussion
+summary:    A presentation of use cases identified in the 1st workshop followed by community discussion
 categories: data citation use cases
 ---
 
@@ -10,8 +10,8 @@ categories: data citation use cases
  
 In this workshop we want to address the use case of citing a large number of datasets such that credit for individual datasets is assigned properly. Discussion will include the concept of a **“Data Collection”** and the infrastructure and guidance still needed to fully implement so it is easier for researchers to use and receive credit when their data are cited in this manner.  
  
-**Title:** 2nd Workshop of the Data Citation Community of Practice for Earth, Space, and Environmental Sciences (and Related Sciences)
-**When:** Jun 8, 2021 11:00 AM Eastern Time (15:00 UTC) - [Check time/date in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210608T110000&p1=263)
+**Title:** 2nd Workshop of the Data Citation Community of Practice for Earth, Space, and Environmental Sciences (and Related Sciences)  
+**When:** Jun 8, 2021 11:00 AM Eastern Time (15:00 UTC) - [Check time/date in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210608T110000&p1=263)  
 **Register in advance for this meeting:** [https://agu.zoom.us/meeting/register/tJwocOyuqzspG9dea9QhOiBBCbr_NTWXugY0](https://agu.zoom.us/meeting/register/tJwocOyuqzspG9dea9QhOiBBCbr_NTWXugY0)
 
 **Draft Schedule/Speakers:**
