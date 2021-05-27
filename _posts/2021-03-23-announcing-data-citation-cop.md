@@ -12,11 +12,10 @@ In this workshop we want to address the use case of citing a large number of dat
  
 **Title:** Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences 
 **When:** Apr 8, 2021 12:00 PM Eastern Time (16:00 UTC)  
-**Register in advance for this meeting:** [https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI](https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI)  
+**Workshop Recording/Materials:** 
 
-After registering, you will receive a confirmation email containing information about joining the meeting.  
- 
-[Data Citation Community of Practice Website](https://agu-data.github.io/DataCitationCoP/)  
+Agarwal, Deborah, Coward, Caroline, Stall, Shelley, & Erdmann, Christopher. (2021, April). Data Citation Community of Practice - 8 April 2021 Workshop. Zenodo. [http://doi.org/10.5281/zenodo.4673622](http://doi.org/10.5281/zenodo.4673622)
+
  
 In order to give the recommendations generated from these workshops a place for review and support, we are **standing up an RDA working group** that will collaborate with other interest groups and working groups already established in RDA with interest in DOIs, DOI Collections, repositories creating DOI collections, journals supporting citing DOI Collections, and Credit for the elements of a DOI Collection. You are welcome to participate in these workshops and coordinate the development and review of the recommendations. 
  
