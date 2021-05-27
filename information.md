@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Data Citation Community of Practice
-permalink: /about/
-tags: about
+permalink: /information/
+tags: information
 ---
 
 
