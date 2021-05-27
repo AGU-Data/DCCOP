@@ -7,7 +7,7 @@ baseurl:     "/DataCitationCoP"
 url:         "https://agu-data.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - information.md
 
 google_analytics:
 
