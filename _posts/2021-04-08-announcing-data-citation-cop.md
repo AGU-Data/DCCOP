@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences Announcement
-date:       2021-03-23
+date:       2021-04-08
 summary:    A discussion on citing large numbers of datasets and assigning credit properly
 categories: data collection
 ---
@@ -10,7 +10,7 @@ categories: data collection
  
 In this workshop we want to address the use case of citing a large number of datasets such that credit for individual datasets is assigned properly. Discussion will include the concept of a **“Data Collection”** and the infrastructure and guidance still needed to fully implement so it is easier for researchers to use and receive credit when their data are cited in this manner.  
  
-**Title:** Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences 
+**Title:** Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences  
 **When:** Apr 8, 2021 12:00 PM Eastern Time (16:00 UTC)  
 **Workshop Recording/Materials:** 
 
