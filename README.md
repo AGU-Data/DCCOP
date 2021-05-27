@@ -1,3 +1,7 @@
+# Data Citation Community of Practice Workshop for Data Citation
+
+Source of the event website located at https://agu-data.github.io/DataCitationCoP/.
+
 # Mixyll [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com/mixyll/)
 
 [Mixyll](https://mixyll.saikiransripada.com/)
