@@ -27,7 +27,7 @@ __Infrastructure Elements:__
 
 Workshop materials can be found at:  
 
-Agarwal, Deborah, Goble, Carole, Soiland-Reyes, Stian, Sarkans, Ugis, Noesgaard, Daniel, Schindler, Uwe, Fenner, Martin, Manghi, Paolo, Stall, Shelley, Coward, Caroline, Erdmann, Chris, 2021. Data Citation Community of Practice - 8 June 2021 Workshop. https://doi.org/10.5281/zenodo.4916734  
+Agarwal, Deborah, Goble, Carole, Soiland-Reyes, Stian, Sarkans, Ugis, Noesgaard, Daniel, Schindler, Uwe, Fenner, Martin, Manghi, Paolo, Stall, Shelley, Coward, Caroline, Erdmann, Chris, 2021. Data Citation Community of Practice - 8 June 2021 Workshop. [https://doi.org/10.5281/zenodo.4916734](https://doi.org/10.5281/zenodo.4916734)  
   
 [Data Citation Community of Practice Website](https://agu-data.github.io/DataCitationCoP/)  
  
