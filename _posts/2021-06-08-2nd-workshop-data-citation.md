@@ -12,7 +12,6 @@ In this workshop we want to address the use case of citing a large number of dat
  
 **Title:** 2nd Workshop of the Data Citation Community of Practice for Earth, Space, and Environmental Sciences (and Related Sciences)  
 **When:** Jun 8, 2021 11:00 AM Eastern Time (15:00 UTC) - [Check time/date in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210608T110000&p1=263)  
-**Register in advance for this meeting:** [https://agu.zoom.us/meeting/register/tJwocOyuqzspG9dea9QhOiBBCbr_NTWXugY0](https://agu.zoom.us/meeting/register/tJwocOyuqzspG9dea9QhOiBBCbr_NTWXugY0)
 
 **Draft Schedule/Speakers:**
 
@@ -26,8 +25,10 @@ __Infrastructure Elements:__
 *	Make Data Count, Martin Fenner, DataCite 
 *	Scholix / OpenAire, Paolo Manghi
 
-After registering, you will receive a confirmation email containing information about joining the meeting.  
- 
+Workshop materials can be found at:  
+
+Agarwal, Deborah, Goble, Carole, Soiland-Reyes, Stian, Sarkans, Ugis, Noesgaard, Daniel, Schindler, Uwe, Fenner, Martin, Manghi, Paolo, Stall, Shelley, Coward, Caroline, Erdmann, Chris, 2021. Data Citation Community of Practice - 8 June 2021 Workshop. https://doi.org/10.5281/zenodo.4916734  
+  
 [Data Citation Community of Practice Website](https://agu-data.github.io/DataCitationCoP/)  
  
 In order to give the recommendations generated from these workshops a place for review and support, we are **standing up an RDA working group** that will collaborate with other interest groups and working groups already established in RDA with interest in DOIs, DOI Collections, repositories creating DOI collections, journals supporting citing DOI Collections, and Credit for the elements of a DOI Collection. You are welcome to participate in these workshops and coordinate the development and review of the recommendations. 
