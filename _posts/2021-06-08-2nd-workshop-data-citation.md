@@ -16,6 +16,7 @@ In this workshop we want to address the use case of citing a large number of dat
 **Draft Schedule/Speakers:**
 
 __Repository Use Cases:__
+*	RO-Crate, Carole Goble
 *	BioStudies, Ugis Sarkans 
 *	GBIF, Daniel Noesgaard 
 *	Pangaea, Uwe Schindler 
