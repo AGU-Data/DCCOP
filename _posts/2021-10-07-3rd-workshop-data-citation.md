@@ -12,8 +12,8 @@ You are invited to participate in the third workshop of the Community of Practic
 
 In this workshop we share **three use cases on possible approaches to a “reliquary”** – a large collection of digital objects used to assist in citation and credit. These use cases come from work by the small team and now ready to share more broadly.
 
-**Title:** Data Citation Community of Practice (Third) Workshop
-**When:** October 29, 2021 11:00 AM Eastern Time (15:00 UTC)
+**Title:** Data Citation Community of Practice (Third) Workshop  
+**When:** October 29, 2021 11:00 AM Eastern Time (15:00 UTC)  
 **Register in advance for this meeting:  
 
 [https://agu.zoom.us/meeting/register/tJMkdeurpj8jEtIEGEPgKZX6MlLMp2N1X0h7](https://agu.zoom.us/meeting/register/tJMkdeurpj8jEtIEGEPgKZX6MlLMp2N1X0h7)
