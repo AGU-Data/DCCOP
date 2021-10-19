@@ -2,7 +2,7 @@
 layout:     post
 title:      Data Citation Community of Practice (Third) Workshop
 date:       2021-10-07
-summary:    Three use cases, possible approaches to citing large collections of digital objects
+summary:    Three use cases and possible approaches to citing large collections of digital objects
 categories: data citation use cases
 ---
 
