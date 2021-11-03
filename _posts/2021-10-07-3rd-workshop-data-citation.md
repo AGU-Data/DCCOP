@@ -14,11 +14,7 @@ In this workshop we share **three use cases on possible approaches to a “reliq
 
 **Title:** Data Citation Community of Practice (Third) Workshop  
 **When:** October 29, 2021 11:00 AM Eastern Time (15:00 UTC)  
-**Register in advance for this meeting:**  
 
-[https://agu.zoom.us/meeting/register/tJMkdeurpj8jEtIEGEPgKZX6MlLMp2N1X0h7](https://agu.zoom.us/meeting/register/tJMkdeurpj8jEtIEGEPgKZX6MlLMp2N1X0h7)
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
 
 **Workshop Speakers (draft agenda):**  
 
@@ -27,7 +23,12 @@ __“Reliquary” Use Cases:__
 *	German Climate Computing Center/IPCC DCC, Martina Stockhause
 *	Ameriflux, Deb Agarwal
 
-Discussion and Next Steps
+Discussion and Next Steps  
+
+
+Workshop materials can be found at:  
+
+Stall, Shelley, Buck, Justin, Ayliffe, James, Agarwal, Deb, Coward, Caroline, & Erdmann, Chris. (2021, October 29). Data Citation Community of Practice - 29 October 2021 Workshop. Zenodo. [https://doi.org/10.5281/zenodo.5641236](https://doi.org/10.5281/zenodo.5641236)
 
 [Data Citation Community of Practice Website](https://agu-data.github.io/DataCitationCoP/)  
  
