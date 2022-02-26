@@ -28,7 +28,7 @@ Discussion and Next Steps
 
 Workshop materials can be found at:  
 
-Stall, Shelley, Buck, Justin, Ayliffe, James, Agarwal, Deb, Coward, Caroline, & Erdmann, Chris. (2021, October 29). Data Citation Community of Practice - 29 October 2021 Workshop. Zenodo. [https://doi.org/10.5281/zenodo.5641236](https://doi.org/10.5281/zenodo.5641236)
+Stall, Shelley, Buck, Justin, Ayliffe, James, Stockhause, Martina, Agarwal, Deb, Coward, Caroline, & Erdmann, Chris. (2021, October 29). Data Citation Community of Practice - 29 October 2021 Workshop. Zenodo. [https://doi.org/10.5281/zenodo.5641236](https://doi.org/10.5281/zenodo.5641236)
 
 [Data Citation Community of Practice Website](https://agu-data.github.io/DataCitationCoP/)  
  
