@@ -12,7 +12,7 @@ Have you been following along with the work of our Data Citation Community of Pr
 
 Our workshops have explored three use cases on possible approaches to the use of a "reliquary" - a large collection of digital objects used to assist in citation and credit.
 
-You can check out the workshop materials on Zenodo - see our previous posts for links!
+You can check out the workshop materials on Zenodo - see our previous posts or the [RDA website](https://www.rd-alliance.org/complex-data-citations-formulating-community-recommendation) for links!
 
 **Other Reports**
 
