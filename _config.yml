@@ -8,6 +8,7 @@ url:         "https://agu-data.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - information.md
+ - publications.md
 
 google_analytics:
 
